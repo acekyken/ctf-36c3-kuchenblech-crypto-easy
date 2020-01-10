@@ -14,7 +14,7 @@ The message is the flag. No flag format.
 
 Ha! This looks familiar. When I saw this challenge I immediately thought of RSA. In RSA, the ciphertext is 
 
->cipher = m^e % N
+>cipher = m^e mod N
 
 We have the ciphertext, which is commented out, and our e is 3. 
 
